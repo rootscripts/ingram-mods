@@ -1,7 +1,7 @@
 
 # Ingram Mod Manager v1 (beta)
 
-![Banner](./banner.png)
+![Banner](./banner.jpg)
 
 Custom mod loader for the [Ingram](https://github.com/jorhelp/Ingram) camera scanner. It uses monkey patching to hook into the core engine at runtime without touching original source files
 
